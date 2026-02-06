@@ -35,11 +35,11 @@
 
 **Databases**
 <br>
-<code>SQL Server</code> 💡 <code>Oracle</code> 💡 <code>SQL</code>
+<kbd>SQL Server</kbd> • <kbd>OracleDb</kbd> • <kbd>PostgreSql</kbd> 
 <br><br>
 **Backend**
 <br>
-<code>.NET</code> ⚡ <code>ADO.NET</code> ⚡ <code>C#</code> ⚡ <code>RESTful APIs</code>
+<kbd>.NET</kbd> • <kbd>ADO.NET</kbd> • <kbd>EF</kbd> • <kbd>C#</kbd> • <kbd>RESTful APIs</kbd>
 
 </div>
 
