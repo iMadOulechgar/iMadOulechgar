@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Imad Oulechgar</b></h1>
+<h1 align="center"><b>Hi👋 , I'm Imad Oulechgar</b></h1>
 <p align="center">
   <kbd>Software Developer</kbd> • <kbd>Clean Code</kbd> • <kbd>Scalable Systems</kbd> • <kbd>Problem Solver</kbd>
 </p>
@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 <blockquote>
   <p align="left">
