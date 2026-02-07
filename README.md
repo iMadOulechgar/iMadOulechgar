@@ -64,5 +64,5 @@
 ---
 
 <p align="center">
-  <b>Imad Oulechgar</b> — <i>Software Developer</i> 🧠💻
+  <b>Imad Oulechgar</b> — <i>Software Developer</i> 💻
 </p>
