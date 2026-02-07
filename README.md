@@ -23,7 +23,7 @@
 
 ---
 
-## ⚙️ Languages & Tools
+## 🧰 Languages & Tools
 
 <p align="center" style="margin-top:25px; margin-bottom:25px;">
   <img src="https://skillicons.dev/icons?i=java,cs,cpp,python,dotnet,git,github" height="55" />
